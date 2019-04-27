@@ -6,9 +6,9 @@
 [日本語][JA_JP]
 
 
-[EN_US]:README.md
-[ZH_CN]:README.zh_cn.md
-[JA_JP]:README.ja_jp.md
+[EN_US]:/
+[ZH_CN]:README.zh_cn
+[JA_JP]:README.ja_jp
 
 For our loved Bilibili, let's make this world a better place by helping Bilibili write his email to GitHub!
 
@@ -16,7 +16,7 @@ For our loved Bilibili, let's make this world a better place by helping Bilibili
 
 One of your oppressed 996 program engineers has uploaded your backend source code to GitHub. Now that 2 hours have passed, write an email to GitHub, describing the situation, ask GitHub to remove it, and what you have learned from this experience.
 
-[Original edition](Sample.md)
+[Original edition](Sample)
 
 ## Contribution
 
@@ -29,9 +29,9 @@ One of your oppressed 996 program engineers has uploaded your backend source cod
 
 Please attach your submission below
 
-For example: [Template](English/Template.md)
+For example: [Template](English/Template)
 
-[English/nce3xin.md](English/nce3xin.md)
+[English/nce3xin.md](English/nce3xin)
 
 ## Further reading
 
