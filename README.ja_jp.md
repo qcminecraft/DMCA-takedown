@@ -1,6 +1,6 @@
 # DMCAによる削除
 
-:crossed_flags:
+🎌
 [English][EN_US],
 [简体中文][ZH_CN],
 **日本語**

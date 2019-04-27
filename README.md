@@ -1,6 +1,6 @@
 # DMCA-takedown
 
-:crossed_flags:
+🎌
 **English**,
 [简体中文][ZH_CN],
 [日本語][JA_JP]
